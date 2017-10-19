@@ -1,0 +1,27 @@
+body {
+	background-color:#d3d2d6;
+}
+td {
+	font-size:50px;
+	font-family:Times;
+	color:#CC48FA;
+	text-align:center;
+	margin:auto;
+	height:100px;
+	width:300px;
+}
+table {
+	margin:auto;
+	border-style:solid;
+	border-width:3px;
+	height:500px;
+	width:1500px;
+}
+a{
+	text-decoration:none;
+}
+a:hover {
+	color:#F92B06;
+	font-size:52px;
+	font-weight:bold;
+}
